@@ -1,0 +1,5 @@
+; 8 bit circular rotation
+MVI A,OFEH
+RLC
+RLC
+HLT
